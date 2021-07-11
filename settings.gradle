@@ -1,0 +1,2 @@
+rootProject.name = "EventListenersWE"
+include ':app'
